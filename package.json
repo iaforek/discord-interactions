@@ -1,0 +1,27 @@
+{
+  "name": "discord-interactions",
+  "version": "0.0.1",
+  "description": "Discord Interactions Endpoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "interactions",
+    "endpoint",
+    "url",
+    "serverless"
+  ],
+  "author": {
+    "name": "Arek Jaworski",
+    "url": "https://iaforek.github.io"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^2.70.0"
+  },
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
